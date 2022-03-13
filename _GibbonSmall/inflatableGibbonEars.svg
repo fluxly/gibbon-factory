@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 354.33071 354.33071"
+   id="svg4382"
+   version="1.1"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="inflatableGibbonEars.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4384" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="196.3484"
+     inkscape:cy="127.53176"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1312"
+     inkscape:window-height="812"
+     inkscape:window-x="9"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     showguides="false"
+     width="100mm" />
+  <metadata
+     id="metadata4387">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.901989;stroke-linecap:round;stroke-linejoin:round"
+       d="m 153.16928,70.257908 c -1.00546,-0.272546 -2.05009,-0.431331 -3.11556,-0.461296 l -9.49695,-0.267347 c -6.85793,-0.192805 -11.93445,5.039828 -11.38234,11.733566 l 0.63079,7.648233 c 0.10041,1.217156 0.38133,2.394614 0.81252,3.510463 l 14.03926,9.856413 17.75659,-21.071146 z"
+       id="path119758" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.901989;stroke-linecap:round;stroke-linejoin:round"
+       d="m 212.6724,93.663906 c 0.74828,-1.468032 1.2279,-3.073854 1.36646,-4.752842 l 0.63079,-7.648233 c 0.55216,-6.693738 -4.52441,-11.926371 -11.38237,-11.733566 l -9.49869,0.267347 c -1.20919,0.03397 -2.3885,0.236417 -3.51745,0.580116 l -7.49666,8.699276 17.75658,21.544656 z"
+       id="path120107" />
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="120mm"
+   viewBox="0 0 200 120"
+   version="1.1"
+   id="svg11751"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="Veneer1a.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11753"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0529882"
+     inkscape:cx="322.41576"
+     inkscape:cy="205.1305"
+     inkscape:window-width="1438"
+     inkscape:window-height="812"
+     inkscape:window-x="-1"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     width="110mm" />
+  <defs
+     id="defs11748" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect11834"
+       style="opacity:0.644444;fill:none;stroke:#000000;stroke-width:0.37893;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.37893, 0.75786"
+       d="m 55.681405,4.776728 -0.06837,0.06838 H 55.50364 V 4.954504 L 1.7840415,58.665342 55.503638,112.37564 v 0.01 h 0.0093 l 0.168468,0.16847 0.16847,-0.16847 H 155.74974 L 102.02083,58.665812 155.84983,4.84557 H 55.749776 Z m 100.305175,0.06838 0.0908,0.09079 v -0.09079 z"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+  </g>
+</svg>

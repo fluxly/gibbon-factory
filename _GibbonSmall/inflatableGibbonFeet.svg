@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 354.33071 354.33071"
+   id="svg4382"
+   version="1.1"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="inflatableGibbonFeet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4384" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="248.56066"
+     inkscape:cy="339.91633"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1312"
+     inkscape:window-height="812"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     showguides="false"
+     width="100mm" />
+  <metadata
+     id="metadata4387">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path93344"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.962122;stroke-linecap:round;stroke-linejoin:round"
+       d="m 83.769531,339.25781 c -8.795941,0 -15.878906,7.08091 -15.878906,15.87696 v 0.86718 c 0,8.7959 7.082965,15.87696 15.878906,15.87696 h 57.162109 c 8.79595,0 15.87891,-7.08106 15.87891,-15.87696 v -0.86718 c 0,-8.77018 -7.04265,-15.83164 -15.80274,-15.87305 -11.95819,-0.24586 -41.526364,-0.004 -57.238279,-0.004 z m 145.751949,0.16602 c -7.75367,1.05928 -13.69531,7.65724 -13.69531,15.71094 v 0.86718 c 0,8.7959 7.08104,15.87696 15.87695,15.87696 h 57.16211 c 8.79602,0 15.87696,-7.08106 15.87696,-15.87696 v -0.86718 c 0,-8.79605 -7.08094,-15.87696 -15.87696,-15.87696 -11.62879,0.23708 -53.41242,-0.28444 -59.34375,0.16602 z"
+       transform="scale(0.9375)"
+       sodipodi:nodetypes="cssssssccccsssssscc" />
+  </g>
+</svg>
